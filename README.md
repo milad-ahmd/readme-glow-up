@@ -50,6 +50,8 @@ You get a rewritten `README.md` plus a list of TODOs (for example "record a demo
 
 ## 🧩 More skills
 
+🧰 **[See all 13 skills and the one-line installer → milad-ahmd/agent-skills](https://github.com/milad-ahmd/agent-skills)**
+
 - 🔎 [pr-reviewer-pro](https://github.com/milad-ahmd/pr-reviewer-pro): senior-engineer-level PR reviews
 - 📚 [awesome-agent-skills](https://github.com/milad-ahmd/awesome-agent-skills): a curated list of Agent Skills
 
